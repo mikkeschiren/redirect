@@ -1,5 +1,5 @@
 {
-  "name": "drupal/redirect",
+  "name": "wkse/redirect",
   "description": "Allows users to redirect from old URLs to new URLs.",
   "type": "drupal-module",
   "license": "GPL-2.0+",
